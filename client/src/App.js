@@ -1,3 +1,4 @@
+//setting up my routes and importing the footer and navbar components 
 
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom'
 import Home from './pages/Homepage/Home'
