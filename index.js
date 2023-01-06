@@ -1,7 +1,7 @@
 import express from "express"
 import mysql from 'mysql'
 import cors from 'cors';
-import path from "path";
+
 
 
 const app = express();
@@ -39,11 +39,6 @@ app.get('/products', (req,res)=>{
         if(err) return res.json(err)
         return res.json(data)
     });
-});
-
-app.use(express.static(path.join(__dirname, './client', './build')));
-app.use((req,res)=>{
-    res.sendFile(path.join(__dirname, './client', './build', 'index.html'));
 });
 
 //listening on port 5000
