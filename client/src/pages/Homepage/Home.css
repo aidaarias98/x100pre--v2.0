@@ -17,6 +17,7 @@
     display: flex;
     align-items: flex-end;
     justify-content: center;
+    margin-top: -20px;
   }
   
   .header-content{
@@ -27,6 +28,10 @@
   
   .header-content h2{
     font-size: 4vmin;
+  }
+
+  .header-content .line{
+    background-color: white;
   }
   
   .line{
@@ -133,6 +138,7 @@
   
     .explore-content .line{
       margin-bottom: 50px;
+      background-color: white;
     }
   
     .explore-content p{

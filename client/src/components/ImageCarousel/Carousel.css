@@ -4,9 +4,14 @@
     box-sizing: border-box;
 }
 
+body{
+    margin-top: -20px;
+}
+
 .carousel{
     display: flex;
     justify-content: center;
+   
 }
 
 .carousel .slide{
@@ -27,6 +32,7 @@
 }
 
 @media only screen and (max-width:1200px){
+    
     .carousel{
         height: 90vh;
     }
@@ -77,4 +83,5 @@
         margin: 10vh auto;
         width: 100vw;
     }
+   
 }

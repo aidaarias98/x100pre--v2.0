@@ -54,3 +54,7 @@ app.listen(5000, ()=>{
 // app.use((req,res)=>{
 //     res.sendFile(path.join(__dirname, './client', './build', 'index.html'));
 // });
+
+
+
+//this is the lastest version on my github x100pre--v2.0
