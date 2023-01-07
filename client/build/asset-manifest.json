@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.1f51d323.css",
+    "main.js": "/static/js/main.08a6bc19.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/SZA - Garden (Say It Like Dat) (Official Video).mp4": "/static/media/SZA - Garden (Say It Like Dat) (Official Video).e0001f7e52261e798226.mp4",
+    "static/media/Selena - La Carcacha (Official Music Video).mp4": "/static/media/Selena - La Carcacha (Official Music Video).4f9fe5eb56057bec64b3.mp4",
+    "static/media/badbunny.mp4": "/static/media/badbunny.27bfb3b7e00458419384.mp4",
+    "static/media/Harry Styles - As It Was (Official Video).mp4": "/static/media/Harry Styles - As It Was (Official Video).14bbc9d53941802733df.mp4",
+    "static/media/aboutus.jpg": "/static/media/aboutus.83fcf4b0b835a15616d0.jpg",
+    "static/media/slider3.jpg": "/static/media/slider3.1e2ff9a93c572d2fb775.jpg",
+    "static/media/slider1.jpg": "/static/media/slider1.f6cd31c7bd7206b2d18c.jpg",
+    "static/media/contact2.jpg": "/static/media/contact2.33b17c5d2410f40f801b.jpg",
+    "static/media/slider2.jpg": "/static/media/slider2.e35966e65da3caeb9b79.jpg",
+    "static/media/hero3.jpg": "/static/media/hero3.e7c1537ae7c8039aed6c.jpg",
+    "static/media/slider4.jpg": "/static/media/slider4.e7c1537ae7c8039aed6c.jpg",
+    "static/media/instagram.png": "/static/media/instagram.dc3161203dd5a2cd4718.png",
+    "static/media/verano.jpg": "/static/media/verano.48e7c70f5364b3361e20.jpg",
+    "static/media/contact4.jpg": "/static/media/contact4.12db31fc014c9b11cdcc.jpg",
+    "static/media/OpenMic.jpeg": "/static/media/OpenMic.9ab1ad730cd78de971f9.jpeg",
+    "static/media/TS3.webp": "/static/media/TS3.e0bfd9a0290a1e620dc4.webp",
+    "static/media/ones.jpg": "/static/media/ones.1712a6f04725fda5fd5b.jpg",
+    "static/media/guitar.jpeg": "/static/media/guitar.d2d644eeb130bc55f716.jpeg",
+    "static/media/x100pre-logo.png": "/static/media/x100pre-logo.a95272f5de0c03b7c7b7.png",
+    "static/media/twitter.png": "/static/media/twitter.f127ca0d00c923a04ada.png",
+    "static/media/hero2.jpeg": "/static/media/hero2.7867a2ddc766822996e6.jpeg",
+    "static/media/facebook.png": "/static/media/facebook.832f81b705f7f77dccc0.png",
+    "static/media/TS13.webp": "/static/media/TS13.7e8db892dff8f638d81d.webp",
+    "index.html": "/index.html",
+    "main.1f51d323.css.map": "/static/css/main.1f51d323.css.map",
+    "main.08a6bc19.js.map": "/static/js/main.08a6bc19.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1f51d323.css",
+    "static/js/main.08a6bc19.js"
+  ]
+}
